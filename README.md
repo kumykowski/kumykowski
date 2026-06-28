@@ -16,7 +16,7 @@
 
 ## 📍 About Me
 
-- 🧑‍🎓 I'm a 16-year-old programming student at a technical high school in **Lublin, Poland**
+- 🧑‍🎓 I'm a 18-year-old programming student at a technical high school in **Lublin, Poland**
 - 💻 Programming since 2021 — passionate about **React**, **JavaScript**, and **Python**
 - 📚 I love creating apps that solve real-world problems and challenge my brain
 - 💬 I speak **Polish** and **English**, learning **German** and **Chinese**
@@ -47,6 +47,7 @@
 - 🧠 **BrainPlan** — Hackathon AI project: calendar + content summarization + brainrot videos
 - 🗺️ **Lublin QR Game** — Outdoor game system using QR codes and challenges
 - 🚛 **Garbage Tracker** — Django app for managing garbage truck routes
+- 🎓 **Olimpedia** — AI-powered search engine and knowledge base for school olympiads
 
 ---
 
