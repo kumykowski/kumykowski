@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=16+y.o+developer+from+Poland;React+%2F+Django+lover;Building+fun+and+smart+projects+💡" alt="Typing SVG" />
 </p>
 
+> “Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.”
+> 
+> — **Steve Jobs**
+
 ---
 
 ## 📍 About Me
